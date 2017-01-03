@@ -1,0 +1,9 @@
+{
+  "name": "friendly-local",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "juliangruber/friendly-local",
+  "dependencies": {
+    "id3js": "^1.1.3"
+  }
+}
